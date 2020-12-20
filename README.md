@@ -1,7 +1,7 @@
 # Realtime Chat Application
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
-
+Deployed at (https://epicchat.netlify.app)
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 ## Introduction
